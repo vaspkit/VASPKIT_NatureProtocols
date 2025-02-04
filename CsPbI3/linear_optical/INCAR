@@ -1,0 +1,26 @@
+Global Parameters
+ISTART =  1            (Read existing wavefunction, if there)
+ISPIN  =  1            (Non-Spin polarised DFT)
+LREAL  = .FALSE.       (Projection operators: automatic)
+LWAVE  = .TRUE.        (Write WAVECAR or not)
+LCHARG = .TRUE.        (Write CHGCAR or not)
+ADDGRID= .TRUE.        (Increase grid, helps GGA convergence)
+
+Electronic Relaxation
+ISMEAR =  0            (Gaussian smearing, metals:1)
+SIGMA  =  0.05         (Smearing value in eV, metals:0.2)
+NELM   =  200           (Max electronic SCF steps)
+NELMIN =  6            (Min electronic SCF steps)
+EDIFF  =  1E-08        (SCF energy convergence, in eV)
+
+NBANDS = 72
+LOPTICS= .TRUE.
+NEDOS = 2000
+CSHIFT = 0.1
+
+METAGGA=MBJ
+ASPH=.TRUE.
+LMAXMIX=4
+ALGO=All
+IME=0.1
+ 

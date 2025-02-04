@@ -1,0 +1,27 @@
+Global Parameters
+ISTART =  1            (Read existing wavefunction, if there)
+ISPIN  =  1            (Non-Spin polarised DFT)
+LREAL  = .FALSE.       (Projection operators: automatic)
+PREC   =  Accurate     (Precision level: Normal or Accurate, set Accurate when perform structure lattice relaxation calculation)
+LWAVE  = .FLASE.       (Write WAVECAR or not)
+LCHARG = .FALSE.       (Write CHGCAR or not)
+ADDGRID= .TRUE.        (Increase grid, helps GGA convergence)
+LASPH  = .TRUE.        (Give more accurate total energies and band structure calculations)
+NPAR   = 4             (Max is no. nodes, don't set for hybrids)
+ 
+Electronic Relaxation
+ISMEAR =  0
+SIGMA  =  0.05
+EDIFF  =  1E-06
+ 
+Molecular Dynamics
+IBRION =  0            (Activate MD)
+NSW    =  10000        (Max ionic steps)
+EDIFFG = -1E-02        (Ionic convergence, eV/A)
+POTIM  =  0.1          (Timestep in fs)
+SMASS  =  0            (MD Algorithm: -3-microcanonical ensemble, 0-canonical ensemble)
+TEBEG  =  400          (Start temperature K)
+TEEND  =  400          (Final temperature K)
+MDALGO =  1            (Nose-Hoover Thermostat)
+ISYM   =  0            (Switch symmetry off)
+NWRITE =  0            (For long MD-runs use NWRITE=0 or NWRITE=1)

@@ -1,0 +1,26 @@
+Global Parameters
+ISTART = 1
+ISPIN = 1
+LREAL = .FALSE.
+LWAVE = .TRUE.
+LCHARG = .TRUE.
+ADDGRID= .TRUE.
+LASPH = .TRUE.
+PREC = N
+NPAR = 4
+ 
+Electronic Relaxation
+ISMEAR = 0
+SIGMA = 0.05
+NELM = 200
+NELMIN = 6
+EDIFF = 1E-08
+NBANDS = 36
+LORBIT = 11
+
+METAGGA=MBJ 
+LASPH=.TRUE.
+LMAXMIX=4   
+ALGO=All    
+TIME=0.1   
+LOPTICS= .TRUE. 
