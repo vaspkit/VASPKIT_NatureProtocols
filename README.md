@@ -26,9 +26,9 @@ This repository contains example files and scripts accompanying the **Nature Pro
 
 If you use these examples in your research, please cite:
 
-(1) **Wang V., et al.** *Empowering Materials Science with VASPKIT: A Toolkit for Enhanced Simulation and Analysis*. *Nature Protocols*, 2025.
+(1) *Wang V., et al.* *Empowering Materials Science with VASPKIT: A Toolkit for Enhanced Simulation and Analysis*. **Nature Protocols**, 2025.
 
-(2) **Wang V., et al.** VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code. *Computer Physics Communications* 267, 108033. https://doi.org/10.1016/j.cpc.2021.108033
+(2) *Wang V., et al.* VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code. **Computer Physics Communications** 267, 108033. https://doi.org/10.1016/j.cpc.2021.108033
 
 ### License
 
