@@ -18,7 +18,7 @@ This repository contains example files and scripts accompanying the **Nature Pro
    cd nature_protocols
    ```
 
-2. Ensure you have **VASPKIT** installed. You can download it from: [VASPKIT GitHub Repository](https://github.com/vaspkit/vaspkit)
+2. Ensure you have **VASPKIT** installed. You can download it from: [VASPKIT Website](https://vaspkit.com/)
 
 3. Follow the provided instructions in each example folder to reproduce the results.
 
