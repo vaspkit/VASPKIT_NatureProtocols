@@ -22,11 +22,13 @@ This repository contains example files and scripts accompanying the **Nature Pro
 
 3. Follow the provided instructions in each example folder to reproduce the results.
 
-### Citation
+### Citation (Please Cite if Used)
 
 If you use these examples in your research, please cite:
 
-> **Wang V., et al.** *Empowering Materials Science with VASPKIT: A Toolkit for Enhanced Simulation and Analysis*. *Nature Protocols*, 2024.
+(1) **Wang V., et al.** *Empowering Materials Science with VASPKIT: A Toolkit for Enhanced Simulation and Analysis*. *Nature Protocols*, 2025.
+
+(2) **Wang V., et al.** VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code. *Computer Physics Communications* 267, 108033. https://doi.org/10.1016/j.cpc.2021.108033
 
 ### License
 
