@@ -14,8 +14,8 @@ This repository contains example files and scripts accompanying the **Nature Pro
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/nature_protocols.git
-   cd nature_protocols
+   git clone https://github.com/yourusername/VASPKIT_NatureProtocols.git
+   cd VASPKIT_NatureProtocols
    ```
 
 2. Ensure you have **VASPKIT** installed. You can download it from: [VASPKIT Website](https://vaspkit.com/)
