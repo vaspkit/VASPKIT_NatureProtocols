@@ -24,7 +24,7 @@ This repository contains example files and scripts accompanying the **Nature Pro
 
 ### Citation (Please Cite if Used)
 
-If you use these examples in your research, please cite:
+If you use VASPKIT code in your research, please cite:
 
 1. *Wang V., et al.* *Empowering Materials Science with VASPKIT: A Toolkit for Enhanced Simulation and Analysis*. **Nature Protocols**, 2025.
 
